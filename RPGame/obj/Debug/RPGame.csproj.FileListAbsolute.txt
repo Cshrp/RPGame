@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\RPGame\bin\Debug\RPGame.exe.config
+C:\Users\admin\source\repos\RPGame\bin\Debug\RPGame.exe
+C:\Users\admin\source\repos\RPGame\bin\Debug\RPGame.pdb
+C:\Users\admin\source\repos\RPGame\obj\Debug\RPGame.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\RPGame\obj\Debug\RPGame.exe
+C:\Users\admin\source\repos\RPGame\obj\Debug\RPGame.pdb
